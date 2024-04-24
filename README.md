@@ -19,8 +19,10 @@ print the characters and its huffmancode
 
  
 ## Program:
-
-
+```
+DEVELOPED BY:PAVANA.G
+REGISTER NUMBER: 212222230105
+```
 # Get the input String
 ```python
 string = 'DIGITAL IMAGE'
